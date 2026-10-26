@@ -1,6 +1,6 @@
 ---
 title: "Mock Exam"
-author: "Amélia OLVIER"
+author: "Amelia OLVIER"
 format:
   html:
     number-sections: true
